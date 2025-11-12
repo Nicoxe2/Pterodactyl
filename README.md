@@ -5,7 +5,7 @@ Este script automatiza a configuração de acesso SSH como root via chave públi
 ## 🚀 Como usar
 
 ```bash
-git clone https://github.com/seu-usuario/ssh-root-setup.git
+git clone https://github.com/Nicoxe2/Root-SSH-Oracle.git
 cd ssh-root-setup
 chmod +x setup.sh
 sudo ./setup.sh
